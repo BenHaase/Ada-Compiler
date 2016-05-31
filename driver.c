@@ -1,8 +1,3 @@
-/* Ben Haase
- * cs4280
- * proj2
- * 3/16/16
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include "tree.h"
